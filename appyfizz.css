@@ -1,0 +1,332 @@
+* {
+    margin: 0;
+    font-family: sans-serif;
+
+}
+
+.headerimg {
+    width: 100%;
+    height: 100%;
+
+
+}
+
+.logoimg {
+
+
+    width: 119px;
+    float: left;
+    padding: 12px;
+    cursor: pointer;
+    position: fixed;
+    top: 11px;
+    overflow: hidden;
+    padding-left: 20px;
+
+}
+
+nav {
+    background-color: #0a0b27;
+    height: 70px;
+    width: 100%;
+    position: fixed;
+}
+
+ul {
+    float: right;
+    text-decoration: none;
+    padding: 15px;
+}
+
+nav li {
+
+
+    font-family: "merivaregular";
+    color: white;
+    list-style: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 10px;
+    padding-right: 30px;
+
+}
+
+nav ul li a:hover {
+    color: red;
+    transition: 0.9s;
+}
+
+.Arow {
+    font-size: 13px;
+    font-weight: 150px;
+}
+
+.body1 {
+    height: 750px;
+    width: 100%;
+}
+
+.bodyimg {
+
+    height: 750px;
+    width: 100%;
+}
+
+.section {
+    height: 1000px;
+    width: 100%;
+}
+
+.box1 {
+    height: 1000px;
+    width: 50%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    float: left;
+
+}
+
+.box1a {
+    height: 180px;
+    width: 500px;
+    background-color: red;
+    align-self: center;
+    border-radius: 300px 0px 300px 0px;
+
+
+
+}
+
+.textmain {
+    color: white;
+    padding: 5px;
+    text-align: center;
+
+}
+
+.textparle1 {
+    font-size: 80px;
+    font-family: "EksellDisplayWeb-Small";
+    font-weight: 800px;
+    letter-spacing: 3px;
+    width: 500px;
+}
+
+.textparle2 {
+    font-size: 80px;
+    font-family: "EksellDisplayWeb-Small";
+    font-weight: 800px;
+    letter-spacing: 3px;
+    width: 500px;
+}
+
+.box2 {
+    font-size: 18px;
+    color: black;
+    height: 1000px;
+    width: 50%;
+    float: left;
+
+}
+
+.box2a {
+    height: 674px;
+    width: 65%;
+    background-color: white;
+    margin-left: 120px;
+    margin-top: 150px;
+    overflow: auto;
+}
+
+.pbox1 {
+    height: 310px;
+    width: 100%;
+    background-color: white;
+    font-family: "merivaregular";
+    font-size: 24px;
+    line-height: 1.2;
+    text-align: left;
+}
+
+.pbox2 {
+    height: 170px;
+    width: 100%;
+    background-color: white;
+    font-size: 24px;
+    line-height: 1.2;
+    text-align: left;
+}
+
+.pbox3 {
+    height: 140px;
+    width: 100%;
+    background-color: white;
+    font-size: 24px;
+    line-height: 1.2;
+    text-align: left;
+}
+
+.pbox4 {
+    height: 44px;
+    width: 100%;
+    background-color: white;
+}
+
+.article {
+    width: 1349px;
+    height: 100%;
+
+
+}
+
+.article-img {
+    width: 1349px;
+    height: 100%;
+}
+
+.footer {
+    height: 265px;
+    width: 100%;
+
+
+}
+
+.footer1 {
+    height: 100%;
+    width: 33%;
+    float: left;
+}
+
+.footer2 {
+    height: 100%;
+    width: 33%;
+    float: left;
+
+
+
+}
+
+.footer3 {
+    height: 100%;
+    width: 34%;
+    float: left;
+}
+
+.footersub1 {
+    height: 65%;
+    width: 60%;
+    margin-left: 55px;
+    margin-top: 60px;
+}
+
+.footersub2 {
+    height: 65%;
+    width: 100%;
+    font-weight: 500;
+    font-size: 14px;
+    text-align: left;
+    padding-bottom: 10px;
+    float: left;
+
+}
+
+.footersub2 {
+    height: 50%;
+    float: left;
+
+}
+
+.footer2sub2 {
+    height: 65%;
+    width: 80%;
+    margin-left: 55px;
+    margin-top: 60px;
+}
+
+.footer2sub2a {
+    height: 25%;
+    width: 100%;
+    font-size: 14px;
+}
+
+.footer2sub2b {
+    height: 19%;
+    width: 100%;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.footer2sub2c {
+    height: 19%;
+    width: 100%;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.footer2sub2d {
+    height: 19%;
+    width: 100%;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.footer2sub2e {
+    height: 19%;
+    width: 100%;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.footersub3 {
+    height: 70%;
+    width: 70%;
+    margin-top: 60px;
+
+}
+
+.footersub3a {
+    height: 10%;
+    width: 100%;
+    font-size: 14px;
+}
+
+.footersub3b {
+    height: 5%;
+    width: 100%;
+}
+
+.footersub3c {
+    height: 10%;
+    width: 100%;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.footersub3d {
+    height: 5%;
+    width: 100%;
+}
+
+.footersub3e {
+    height: 30%;
+    width: 60%;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.footersub3f {
+    height: 10%;
+    width: 100%;
+    font-size: 14px;
+}
+
+.footersub3g {
+    height: 20%;
+    width: 100%;
+}
+
+.footericon {
+    width: 25px;
+}
